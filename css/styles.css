@@ -6,7 +6,7 @@ body {
 
 #h1 {
     font-family: 'Bungee Spice', cursive;
-    font-size: 50px;
+    font-size: 65px;
     padding: 0px;
     margin: 0px;
     border: 0px;
@@ -27,6 +27,14 @@ body {
 }
 
 .container_1:hover {
+    opacity: 100%;
+}
+
+.container_mw {
+    opacity: 50%;
+}
+
+.container_mw:hover {
     opacity: 100%;
 }
 
@@ -97,6 +105,10 @@ h2 {
     color: pink;
 }
 
+#oink {
+    font-style: italic;
+}
+
 #argus {
     border-radius: 5%;
 }
@@ -118,4 +130,8 @@ h2 {
 
 #killua:hover {
     opacity: 100%;
+}
+
+#pig_img {
+    border-radius: 75%;
 }
