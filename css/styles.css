@@ -3,6 +3,13 @@ body {
     font-family: 'Roboto Condensed', sans-serif;
 }
 
+h1 {
+    font-size: 50px;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
 .container_1 {
     background-color: rgb(255, 255, 255);
     margin: auto;
@@ -20,16 +27,17 @@ body {
     font-style: italic;
 }
 
-img {
-    border-radius: 50%;
-}
-
 .container_2 {
     background-color: dark
 }
 
 ul {
     list-style-type: none;
+    list-style-position: inside;
+    padding: 0;
+}
+
+ol {
     list-style-position: inside;
     padding: 0;
 }
@@ -74,5 +82,28 @@ li {
 
 h2 {
     background-color: whitesmoke;
+    font-size: 30px;
     margin: auto;
+}
+
+#pig {
+    color: pink;
+}
+
+#argus {
+    border-radius: 5%;
+}
+
+.argus {
+    color:rgb(65, 204, 217)
+}
+
+#logos {
+    border-radius: 1%;
+}
+
+#killua {
+    border-radius: 50%;
+    margin: auto;
+    padding: 20px;
 }
