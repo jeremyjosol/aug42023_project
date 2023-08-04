@@ -34,3 +34,23 @@ li {
     display: block;
     box-sizing: border-box;
 }
+
+.container_blue {
+    background-color: blue;
+    float: left;
+    margin: auto;
+    padding: 10%;
+    border: 20px blue solid;
+    display: block;
+    box-sizing: border-box;
+}
+
+.container_green {
+    background-color: green;
+    overflow-wrap: break-word;
+    margin: auto;
+    padding: 10%;
+    border: 20px green solid;
+    display: block;
+    box-sizing: border-box;
+}
