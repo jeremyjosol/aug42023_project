@@ -1,9 +1,10 @@
 body {
     text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 .container_1 {
-    background-color: rgb(239, 251, 255);
+    background-color: rgb(255, 255, 255);
     margin: auto;
     padding: auto;
     display: block;
@@ -69,4 +70,9 @@ li {
 .container_ed:hover {
     opacity: 100%;
     background-color: white;
+}
+
+h2 {
+    background-color: whitesmoke;
+    margin: auto;
 }
