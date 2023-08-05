@@ -7,7 +7,7 @@ Jeremy Josol
 This application features a webpage that showcases some information about the author's professional and personal experiences.
 
 ## Github Pages
-[Github Pages](https://github.com/jeremyjosol/aug42023_project)
+[Github Pages - Portfolio - Click to View](https://jeremyjosol.github.io/aug42023_project/)
 
 ## Technologies Used
 * HTML
