@@ -16,7 +16,10 @@ This application features a webpage that showcases some information about the au
 * Google Fonts
 
 ## Application Setup
-Open the 'index.html' file in a web browser, the browser will load the portfolio webpage. The styles are located within the CSS folder directory under the 'css/styles.css' file.
+1. Clone the repository in the gh-pages-final branch via GitHub
+2. Open the 'aug42023_project-gh-pages-final.zip' file
+3. Once the file has been zipped, open 'aug42023_project-gh-pages-final'
+4. Open the 'index.html' file to view the project on your local browser
 
 ## Known Bugs
 No known bugs. Please kindly report any known issues to the repository's creator.
