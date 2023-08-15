@@ -16,9 +16,9 @@ This application features a webpage that showcases some information about the au
 * Google Fonts
 
 ## Application Setup
-1. Clone the repository in the gh-pages-final branch via GitHub
-2. Open the 'aug42023_project-gh-pages-final.zip' file
-3. Once the file has been zipped, open 'aug42023_project-gh-pages-final'
+1. Clone the repository via GitHub
+2. Open the 'aug42023_project-gh-pages.zip' file
+3. Once the file has been zipped, open 'aug42023_project-gh-pages'
 4. Open the 'index.html' file to view the project on your local browser
 
 ## Known Bugs
